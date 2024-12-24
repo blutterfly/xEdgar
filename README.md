@@ -4,4 +4,5 @@
 103. https://medium.com/@jan_5421/sec-edgar-api-e92049b172b9
 104. https://medium.com/@jan_5421/sec-edgar-api-2-b2cfb82c1d9e
 105. https://medium.com/@sonradata/converting-xml-xbrl-from-sec-edgar-data-sharing-with-snowflake-b8d75d94c84b
+106. https://medium.com/@pdjfjrk/unlocking-investment-insights-a-guide-to-downloading-sec-edgar-master-index-files-6aafd04bce8e
   
